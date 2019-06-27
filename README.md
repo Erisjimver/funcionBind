@@ -1,2 +1,2 @@
 # funcionBind
-Funcion bind de jQuery
+Funcion bind jQuery
